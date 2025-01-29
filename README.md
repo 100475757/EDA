@@ -1,2 +1,1 @@
-# EDA
-Apuntes de la asignatura Estructura de Datos y Algortimos de la carrera ingenieria informatica de la UC3M
+Ejercicios y exámenes realizados durante las clases de la asignatura. 
